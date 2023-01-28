@@ -1,0 +1,24 @@
+body{
+    background-color: #AAE3E2;
+    
+}
+hr{
+    background-color: #E8E2E2;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    border-color: grey;
+
+    height: 0px;
+    width: 100%;
+}
+img:hover{
+    background-color: goldenrod;
+}
+
+.skills:hover{
+    background-color: red;
+}
+#bball:hover{
+    background-color: white;
+}   
